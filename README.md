@@ -2,8 +2,8 @@
 
 ## 🧭 Navigation (and Recommended Read Order)
 
-| [MySQL Lingo](./Lingo.md) | [CRUD Operations](./CRUD.md) | [Relationships](./relationships.md) | [Indexes](./index.md) |
-|:---:|:---:|:---:|:---:|
+| [MySQL Lingo](./Lingo.md) | [CRUD Operations](./CRUD.md) | [Relationships](./relationships.md) | [Indexes](./index.md) | [Delimiters and If Statements](./conditions.md) |
+|:---:|:---:|:---:|:---:|:---:|
 
 ## 📚 Repository Overview
 
