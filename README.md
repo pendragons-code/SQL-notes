@@ -1,8 +1,8 @@
 # 🚀 MySQL Learning Journey 
 
-## 🧭 Navigation
+## 🧭 Navigation (and Recommended Read Order)
 
-| [CRUD Operations](./CRUD.md) | [MySQL Lingo](./Lingo.md) | [Relationships](./relationships.md) | [Indexes](./index.md) |
+| [MySQL Lingo](./Lingo.md) | [CRUD Operations](./CRUD.md) | [Relationships](./relationships.md) | [Indexes](./index.md) |
 |:---:|:---:|:---:|:---:|
 
 ## 📚 Repository Overview
