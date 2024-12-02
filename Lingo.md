@@ -45,3 +45,7 @@ In the statement above, inside the table `Users` , there are **Identifiers**, **
 
 # Schema
 A database schema is a blueprint that defines the **structure**, **organization**, and **relationships** of a database.
+
+# Learn more
+
+MySQL is very well documented and has many pages exploring some of the basic stuff about it, here is a page about all the different [reserved keywords](https://dev.mysql.com/doc/refman/8.4/en/keywords.html)
