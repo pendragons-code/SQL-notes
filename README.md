@@ -16,6 +16,7 @@ Welcome to my MySQL learning notes! This repository is a comprehensive guide to 
 - `CRUD.md`: Detailed guide on Create, Read, Update, and Delete operations
 - `Lingo.md`: MySQL terminology and key concepts
 - `relationships.md`: Exploring database relationships and design principles
+- `conditions.md`: Exploring if statements and how they are used in the real world
 
 ## 🎯 Learning Objectives
 
@@ -30,6 +31,7 @@ Welcome to my MySQL learning notes! This repository is a comprehensive guide to 
 2. Explore `CRUD.md` to understand basic database operations
 3. Reference `Lingo.md` for technical terminology
 4. Study `relationships.md` for advanced database design concepts
+5. Study `conditions.md` for advanced control flow concepts
 
 ## 💡 Tips
 - Take your time with each section
